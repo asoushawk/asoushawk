@@ -42,7 +42,7 @@
 
 [![Strapi](https://img.shields.io/badge/-Strapi-8E75FF?style=flat-square&logo=Strapi&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 
-**WebScraping / Automação**
+**WebScraping / Automation**
 
 [![Selenium](https://img.shields.io/badge/-Selenium-8E75FF?style=flat-square&logo=Selenium&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 [![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup-8E75FF?style=flat-square&logo=BeautifulSoup&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
