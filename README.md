@@ -1,6 +1,6 @@
 # Daniel Sousa Soares
 
-## About me:
+## About me
 
 👨‍💻 <strong>Backend Web Developer</strong>
 
