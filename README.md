@@ -42,6 +42,7 @@
 [![Strapi](https://img.shields.io/badge/-Strapi-8E75FF?style=flat-square&logo=Strapi&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 
 **Deploy**
+
 [![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/asoushawk/)
 [![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/asoushawk/)
 [![Umbler](https://img.shields.io/badge/-Umbler-DBDBE0?style=flat-square&logo=umbler)](https://github.com/asoushawk/)
