@@ -1,16 +1,48 @@
-### Hi there 👋
+# Daniel Sousa Soares
 
-<!--
-**asoushawk/asoushawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
 
-Here are some ideas to get you started:
+👨‍💻 <strong>Desenvolvedor Web Backend</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mortar_board: <strong>Graduando em Ciência e Tecnologia - UFBA</strong>
+
+:page_with_curl: **Estou iniciando um negócio próprio em Desenvolvimento no [Instagram](https://www.instagram.com/__ssdigital/)**
+
+**Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
+
+## Conhecimento
+
+**Languages**
+
+[![Python](https://img.shields.io/badge/-Python-59C0EA?style=flat-square&logo=python&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
+**Front-end**
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
+
+
+**Back end**
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![Nodejs](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![Postman](https://img.shields.io/badge/-Postman-DBDBE0?style=flat-square&logo=Postman&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
+**Database**
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
+
+
+**CMS**
+[![Strapi](https://img.shields.io/badge/-Strapi-8E75FF?style=flat-square&logo=Strapi&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
+**Deploy**
+[![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/asoushawk/)
+[![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/asoushawk/)
+[![Umbler](https://img.shields.io/badge/-Umbler-DBDBE0?style=flat-square&logo=umbler)](https://github.com/asoushawk/)
+
+**Versioning and Communication**
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
