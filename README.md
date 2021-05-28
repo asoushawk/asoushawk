@@ -1,8 +1,8 @@
 # Daniel Sousa Soares
 
-## Sobre mim:
+## About me:
 
-👨‍💻 <strong>Desenvolvedor Web Backend</strong>
+👨‍💻 <strong>Backend Web Developer</strong>
 
 :mortar_board: <strong>Graduando em Ciência e Tecnologia - UFBA</strong>
 
