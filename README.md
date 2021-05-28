@@ -11,7 +11,7 @@
 
 **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
-## Conhecimento
+## Technologies
 
 **Languages**
 
