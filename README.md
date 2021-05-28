@@ -6,7 +6,8 @@
 
 :mortar_board: <strong>Graduando em Ciência e Tecnologia - UFBA</strong>
 
-:page_with_curl: **Estou iniciando um negócio próprio em Desenvolvimento no [Instagram](https://www.instagram.com/__ssdigital/)**
+:page_with_curl: **Estou iniciando um negócio próprio em Desenvolvimento Web [SS Digital](https://www.ssdigital.com.br)**
+
 
 **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
