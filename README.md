@@ -2,12 +2,9 @@
 
 ## About me
 
-👨‍💻 <strong>Backend Web Developer</strong>
+👨‍💻 <strong>Data Science</strong>
 
 :mortar_board: <strong>Graduando em Ciência e Tecnologia - UFBA</strong>
-
-:page_with_curl: **Estou iniciando um negócio próprio em Desenvolvimento Web - [SS Digital](https://www.ssdigitalci.com.br)**
-
 
 **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
