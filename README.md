@@ -17,9 +17,9 @@
 
 **Data Engineering Tools**
 
-[![Apache Airflow](https://img.shields.io/badge/-Airflow-181717?style=flat-square&logo=airflow&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![Apache Airflow](https://img.shields.io/badge/-ApacheAirFlow-181717?style=flat-square&logo=airflow&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 
-**Database**
+**Databases**
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
