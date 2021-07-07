@@ -2,7 +2,7 @@
 
 ## About me
 
-👨‍💻 <strong>Estágiario de Engenharia de Dados na LGPDTrust</strong>
+👨‍💻 <strong>Engenharia de Dados</strong>
 
 :mortar_board: <strong>Graduando em Ciência e Tecnologia - UFBA</strong>
 
