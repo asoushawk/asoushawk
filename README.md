@@ -2,7 +2,7 @@
 
 ## About me
 
-👨‍💻 <strong>Engenharia de Dados</strong>
+👨‍💻 <strong>Engenharia de Dados / Desenvolvimento Backend</strong>
 
 :mortar_board: <strong>Graduando em Ciência e Tecnologia - UFBA</strong>
 
