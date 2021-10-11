@@ -23,10 +23,12 @@
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![MySQL](https://img.shields.io/badge/-SQLite-336791?style=flat-square&logo=SQLite&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 
 **WebScraping / Automation Tools**
 
 [![Selenium](https://img.shields.io/badge/-Selenium-8E75FF?style=flat-square&logo=Selenium&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![Scrapy](https://img.shields.io/badge/-Scrapy-8E75FF?style=flat-square&logo=Scrapy&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 [![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup-8E75FF?style=flat-square&logo=BeautifulSoup&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 
 
@@ -34,6 +36,7 @@
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 [![Nodejs](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+[![Flask](https://img.shields.io/badge/-Flask-green?style=flat-square&logo=Flask&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 [![Postman](https://img.shields.io/badge/-Postman-DBDBE0?style=flat-square&logo=Postman&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 
 
