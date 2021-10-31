@@ -8,12 +8,18 @@
 
 **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
-## Technologies
+## Stack
 
 **Languages**
 
 [![Python](https://img.shields.io/badge/-Python-59C0EA?style=flat-square&logo=python&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
+**Cloud Services**
+
+[![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=aws&link=https://github.com/asoushawk/)](https://github.com/asoushawk/)
+
+
 
 **Orquestration Tools**
 
