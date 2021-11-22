@@ -2,7 +2,7 @@
 
 ## About me
 
-👨‍💻 <strong>Data Engineer @Iris Data Driven</strong>
+👨‍💻 <strong>Engenheiro de Dados @Iris Data Driven</strong>
 
 :mortar_board: <strong>Graduando em Ciência e Tecnologia - UFBA</strong>
 
